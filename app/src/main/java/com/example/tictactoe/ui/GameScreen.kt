@@ -229,7 +229,7 @@ fun WinHorizontalLine1() {
             color = Color.Red,
             strokeWidth = 10f,
             cap = StrokeCap.Round,
-            start = Offset(x = 0f, y = size.height * 5 / 12),
+            start = Offset(x = 0f, y = size.height * 1 / 6),
             end = Offset(x = size.width, y = size.height * 1 / 6)
         )
     }
@@ -255,7 +255,7 @@ fun WinHorizontalLine3() {
             color = Color.Red,
             strokeWidth = 10f,
             cap = StrokeCap.Round,
-            start = Offset(x = 0f, y = size.height * 13 / 18),
+            start = Offset(x = 0f, y = size.height * 5 / 6),
             end = Offset(x = size.width, y = size.height * 5 / 6)
         )
     }
